@@ -1,0 +1,39 @@
+# Core
+/app/public/wp-admin/
+/app/public/wp-content/index.php
+/app/public/wp-content/languages
+/app/public/wp-content/plugins/index.php
+/app/public/wp-content/themes/index.php
+/app/public/wp-includes/
+/app/public/index.php
+/app/public/license.txt
+/app/public/readme.html
+/app/public/wp-*.php
+/app/public/xmlrpc.php
+
+# Configuration
+wp-config.php
+
+# Example themes
+/app/public/wp-content/themes/twenty*/
+
+# Uploads
+/app/public/wp-content/uploads/
+
+# Log files
+/logs
+*.log
+
+# htaccess
+/app/public/.htaccess
+
+# config
+/conf
+
+# misc
+.DS_Store
+*.pem
+
+# local env files
+.env.local
+.env
